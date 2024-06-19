@@ -1,1 +1,1 @@
-# Dice-Challenge
+# Cubes Game
